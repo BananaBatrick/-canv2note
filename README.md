@@ -1,0 +1,1 @@
+This program checks Canvas for new assignments using class IDs and posts them into a Notion database and Discord server using webhooks. Before you run this program, you must create an integration within Canvas. You should also write down your Notion database ID and your Discord webhooks. 
